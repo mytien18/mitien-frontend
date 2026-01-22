@@ -1,4 +1,4 @@
-// src/components/CheckoutClient.js
+
 "use client";
 
 import { useEffect, useMemo, useState } from "react";
