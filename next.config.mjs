@@ -16,9 +16,7 @@ const nextConfig = {
   poweredByHeader: false,
   reactStrictMode: true,
   swcMinify: true,
-  experimental: {
-    optimizeCss: true,
-  },
+ 
   async rewrites() {
     return [
       { source: "/api/:path*",     destination: "http://127.0.0.1:8000/api/:path*" },
