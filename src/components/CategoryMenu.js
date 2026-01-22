@@ -1,4 +1,4 @@
-// src/components/Header.js
+
 "use client";
 /* eslint-disable @next/next/no-img-element */
 
