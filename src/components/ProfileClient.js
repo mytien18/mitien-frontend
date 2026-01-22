@@ -1,4 +1,4 @@
-// src/components/ProfileClient.js
+
 "use client";
 
 import { useEffect, useMemo, useRef, useState } from "react";
